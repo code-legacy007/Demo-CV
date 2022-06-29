@@ -1,5 +1,4 @@
 # Demo-CV
-https://code-legacy007.github.io/Demo-CV/
 
 First HTML project.
 
